@@ -1,0 +1,107 @@
+# Contributing to GPR Utility Detection Tool
+
+Thank you for your interest in contributing! This document provides guidelines for contributing to this project.
+
+## How to Contribute
+
+### Reporting Bugs
+
+Before submitting a bug report:
+- Check the [existing issues](https://github.com/yourusername/gpr-utility-detection/issues) to avoid duplicates
+- Collect information about the bug:
+  - Steps to reproduce
+  - Expected behavior
+  - Actual behavior
+  - GPR data specifications (frequency, samples, etc.)
+  - ArcGIS Pro version
+  - Python environment details
+
+**Submit bugs via GitHub Issues** with the "bug" label.
+
+### Suggesting Enhancements
+
+Enhancement suggestions are welcome! Please:
+- Check existing feature requests first
+- Provide clear use cases
+- Explain why this feature would benefit users
+- Consider implementation complexity
+
+**Submit via GitHub Issues** with the "enhancement" label.
+
+### Pull Requests
+
+1. **Fork the repository** and create your branch from `main`
+2. **Make your changes**:
+   - Follow existing code style
+   - Add comments for complex logic
+   - Update documentation if needed
+3. **Test thoroughly**:
+   - Test with multiple GPR datasets
+   - Verify ArcGIS Pro integration
+   - Check edge cases
+4. **Update the README** if adding features
+5. **Submit pull request** with clear description
+
+### Code Style
+
+- Follow PEP 8 for Python code
+- Use descriptive variable names
+- Add docstrings for functions/classes
+- Keep functions focused and modular
+- Comment complex algorithms
+
+### Priority Areas for Contribution
+
+**High Priority:**
+- Support for additional GPR file formats
+- Validation tools and accuracy testing
+- Performance optimization
+- Better error handling and logging
+
+**Medium Priority:**
+- Enhanced visualization options
+- Export to additional formats
+- Utility type classification
+- Integration with other GIS platforms
+
+**Low Priority:**
+- UI/UX improvements
+- Additional preprocessing options
+- Advanced filtering capabilities
+
+### Testing
+
+When contributing code:
+- Test with real GPR data
+- Include test results in PR
+- Document any limitations
+- Verify backward compatibility
+
+### Documentation
+
+- Update README.md for user-facing changes
+- Add inline code comments
+- Update parameter descriptions
+- Include usage examples
+
+## Community Guidelines
+
+- Be respectful and constructive
+- Help others learn and grow
+- Share knowledge and experience
+- Acknowledge contributions
+
+## Questions?
+
+- Open a [Discussion](https://github.com/yourusername/gpr-utility-detection/discussions) for general questions
+- Use [Issues](https://github.com/yourusername/gpr-utility-detection/issues) for bugs/features
+- Contact maintainers directly for sensitive matters
+
+## Recognition
+
+Contributors will be acknowledged in:
+- README.md contributors section
+- Release notes
+- Project documentation
+
+Thank you for helping improve GPR utility detection!
