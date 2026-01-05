@@ -37,15 +37,15 @@ Automated Ground Penetrating Radar (GPR) utility detection toolbox for ArcGIS Pr
 ## 🚀 Installation
 
 ### Option 1: Direct Download
-1. Download `gpr_utility_detection.pyt` from this repository
+1. Download `toolboxBeta_version.pyt` from this repository
 2. Open ArcGIS Pro
 3. In the Catalog pane, right-click **Toolboxes** → **Add Toolbox**
-4. Navigate to and select `gpr_utility_detection.pyt`
+4. Navigate to and select `toolboxBeta_version.pyt`
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/yourusername/gpr-utility-detection.git
-cd gpr-utility-detection
+git clone https://github.com/micahw5/toolboxBeta_version.git
+cd toolboxBeta_version
 ```
 
 ### Install Optional Dependencies
