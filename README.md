@@ -1,5 +1,4 @@
-# GPR-Utility-Detection
-Automated Ground Penetrating Radar (GPR) utility detection toolbox for ArcGIS Pro. Uses hyperbola detection algorithms to identify buried utilities from GSSI GPR data and automatically georeferences results.
+
 # GPR Utility Detection Tool for ArcGIS Pro
 
 ![Version](https://img.shields.io/badge/version-9.2-blue)
@@ -197,8 +196,8 @@ We welcome validation studies and accuracy reports from the community.
 If you use this tool in research or publications, please cite:
 
 ```
-[Your Name]. (2025). GPR Utility Detection Tool for ArcGIS Pro (Version 9.2) 
-[Software]. GitHub. https://github.com/yourusername/gpr-utility-detection
+[Micah Williams/Joe Risk]. (2025). GPR Utility Detection Tool for ArcGIS Pro (Version 9.2) 
+[Software]. GitHub. https://github.com/micahw5/gpr-utility-detection
 ```
 
 ## 🔗 Related Resources
@@ -221,12 +220,16 @@ This tool is provided "as is" without warranty of any kind. Users are responsibl
 
 Incorrect utility location can result in serious injury, death, or property damage. Always use multiple verification methods.
 
-## 👤 Author
+## 👤 Authors
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**[Micah Williams]**
+- GitHub: [micahw5](https://github.com/yourusername)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- Email: mwilliams@nelsonintelligencesolutions.com
+**[Joe Risk]**
+- GitHub: [micahw5](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: jrisk@nelsonintelligencesolutions.com
 
 ## 🙏 Acknowledgments
 
@@ -239,6 +242,6 @@ Incorrect utility location can result in serious injury, death, or property dama
 
 **⭐ If you find this tool useful, please star the repository!**
 
-**🐛 Found a bug?** [Open an issue](https://github.com/yourusername/gpr-utility-detection/issues)
+**🐛 Found a bug?** [Open an issue](https://github.com/micahw5/gpr-utility-detection/issues)
 
-**💡 Have a suggestion?** [Start a discussion](https://github.com/yourusername/gpr-utility-detection/discussions)
+**💡 Have a suggestion?** [Start a discussion](https://github.com/micahw5/gpr-utility-detection/discussions)
