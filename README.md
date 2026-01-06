@@ -113,10 +113,7 @@ Output_Folder/
 ## 🎨 Interpreting Results
 
 ### Confidence Scores
-- **> 0.8** (Red markers): High confidence - strong hyperbola fit
-- **0.6 - 0.8** (Orange markers): Medium confidence - good fit with some uncertainty
-- **< 0.6** (Yellow markers): Lower confidence - requires careful review
-
+- Once running the script and uploading it to the map it should show a confidence section which shows the confidence score.
 ### Best Practices
 - ⚠️ **Always review automated detections** - Professional verification recommended
 - Use confidence scores to prioritize field investigation
