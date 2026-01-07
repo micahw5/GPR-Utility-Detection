@@ -222,13 +222,11 @@ Incorrect utility location can result in serious injury, death, or property dama
 
 **[Micah Williams]**
 - GitHub: [micahw5](https://github.com/micahw5)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - Email: mwilliams@nelsonintelligencesolutions.com
 
  
  **[Joe Risk]**
 - GitHub: [micahw5](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - Email: jrisk@nelsonintelligencesolutions.com
 
 ## 🙏 Acknowledgments
