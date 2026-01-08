@@ -11,7 +11,7 @@ Automated Ground Penetrating Radar (GPR) utility detection toolbox for ArcGIS Pr
 [Sample GPR Data]-(https://github.com/user-attachments/files/24460493/Sample.GPR.Data.zip)
 
 *Example: Automated utility detection with confidence scores and GPS integration once added to ArcGis Pro it will display what was found*
-<img width="3215" height="2123" alt="UAPBVAT001__100_V10_1" src="https://github.com/user-attachments/assets/0fab8013-3874-498a-a15e-bfcfdea385d0" />
+
 
 ## 🎯 Features
 
