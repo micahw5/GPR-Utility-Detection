@@ -1,4 +1,4 @@
-# GPR Toolbox
+# Gpr-Toolbox
 
 **Automated hyperbola detection and GIS integration for ArcGIS Pro**
 
@@ -187,8 +187,8 @@ The tool reads dielectric permittivity (ε) from the DZT header and computes `v 
 Issues, feature requests, and pull requests are welcome. Please open an Issue before starting large changes to confirm scope.
 
 ```bash
-git clone https://github.com/micahwilliams/gpr-utility-detection-pro.git
-cd gpr-utility-detection-pro
+git clone https://github.com/micahwilliams/gpr-toolbox.git
+cd gpr-toolbox
 ```
 
 ---
@@ -202,7 +202,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## Author
 
 **Micah Williams**  
-*GPR Utility Detection PRO*
+*Gpr-Toolbox*
 
 ---
 
